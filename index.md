@@ -23,4 +23,6 @@
 7. Write about at least two new things you have personally learned about the command line.
 *The two things I learned about the command line were from the class we had with Jake Oldroyd. The first of this being when he called ls -l to show the long list and how he explained that anything in that list that starts with d is a directory. Jake taught a lot more about navigating through your directories. I had a slight understanding of the . .. and / notation, but Jake was able to explain it in a much better way than what I had understood it as before.*
 
+TEMP
+
 ![Some cool lines of code in a terminal](/imgs/linux.jpg)
