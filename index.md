@@ -25,6 +25,6 @@
 
 > cd ../
 
-:wink: :+1:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ![Some cool lines of code in a terminal](/imgs/linux.jpg)
